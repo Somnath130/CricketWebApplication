@@ -1,0 +1,13 @@
+D:\Cyber Group\C#\Cricket_Database\Cricket_Database\bin\Debug\netcoreapp2.1\Cricket_Database.deps.json
+D:\Cyber Group\C#\Cricket_Database\Cricket_Database\bin\Debug\netcoreapp2.1\Cricket_Database.runtimeconfig.json
+D:\Cyber Group\C#\Cricket_Database\Cricket_Database\bin\Debug\netcoreapp2.1\Cricket_Database.runtimeconfig.dev.json
+D:\Cyber Group\C#\Cricket_Database\Cricket_Database\bin\Debug\netcoreapp2.1\Cricket_Database.dll
+D:\Cyber Group\C#\Cricket_Database\Cricket_Database\bin\Debug\netcoreapp2.1\Cricket_Database.pdb
+D:\Cyber Group\C#\Cricket_Database\Cricket_Database\obj\Debug\netcoreapp2.1\Cricket_Database.csproj.CoreCompileInputs.cache
+D:\Cyber Group\C#\Cricket_Database\Cricket_Database\obj\Debug\netcoreapp2.1\Cricket_Database.RazorAssemblyInfo.cache
+D:\Cyber Group\C#\Cricket_Database\Cricket_Database\obj\Debug\netcoreapp2.1\Cricket_Database.RazorAssemblyInfo.cs
+D:\Cyber Group\C#\Cricket_Database\Cricket_Database\obj\Debug\netcoreapp2.1\Cricket_Database.AssemblyInfoInputs.cache
+D:\Cyber Group\C#\Cricket_Database\Cricket_Database\obj\Debug\netcoreapp2.1\Cricket_Database.AssemblyInfo.cs
+D:\Cyber Group\C#\Cricket_Database\Cricket_Database\obj\Debug\netcoreapp2.1\Cricket_Database.RazorTargetAssemblyInfo.cache
+D:\Cyber Group\C#\Cricket_Database\Cricket_Database\obj\Debug\netcoreapp2.1\Cricket_Database.dll
+D:\Cyber Group\C#\Cricket_Database\Cricket_Database\obj\Debug\netcoreapp2.1\Cricket_Database.pdb
